@@ -1,0 +1,43 @@
+h1 {
+	font-family: 'Anton', sans-serif;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+h4 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 25px;
+	padding-left: 2%;
+	padding-right: 10%;
+}
+h5 {
+	font-family: 'Gothic A1', sans-serif;
+	font-size: 15px;
+	padding-left: 2%;
+}
+p {
+	font-family: 'Gothic A1', sans-serif;
+	font-size: 15px;
+}
+nav {
+	background-color:black;
+}
+.pquote {
+    float: right;
+    width: 200px;
+    color: #030;
+    font-size: 26px;
+    line-height: 0.9;
+    font-style: italic;
+    padding: 13px;
+}
+blockquote {
+    margin: 0;
+}
+.pquote p:first-letter {
+    font-size: 39px;
+    font-weight: bold;
+}
+iframe {
+	padding-left: 27%;
+}
+
